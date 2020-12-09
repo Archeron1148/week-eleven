@@ -88,5 +88,8 @@ https://digiarch.netlify.app/data/1-s2.0-S2212054819300074-main.pdf
     ***The Storyboard Editor was initially conceived as a story prototypingtool, to support authors without particular technical expertise to definetheir story concept and structure and put the draft scenario and script ofthe story in this structure. However, with almost no exception, in none ofthe use cases was this put to practice. All authors started to brainstormmostly on paper, then conceived the initial story structure and script in atext editor like Microsoft Word, and once there was a more or less stabledraft they then moved to the NSE to prototype and test their experience.***
     A consistentfinding amongst most of the authors was the fact that itwas not immediately clear what is the role of Chapters and Scenes andhow they impact the created mobile experience. Although Chapters andScenes are there to support the structuring of the content, they seem tocreate an overhead for the author, who does not necessarily wish tostructure the experience in this way.
     The use of the tool so far has proven its advantages for effective designand development of a variety of digital mobile experiences. The story-board paradigm by itself is not well-suited to very complex non-linearnarrative structures, but may successfully represent near-linear struc-tures (i.e., a main storyline with parallel paths (branches) that mergeback to the main one). This type of narrative is well suited in a realisticsetting where a cultural heritage site is looking to produce a cost-efficientstorytelling experience, and an expert familiar with non-linear narrativesis not part of the team.
-    
+
+Closely Observed Layers: Storytelling and the Heart
+https://digiarch.netlify.app/data/tringham-heart.pdf
+
     
